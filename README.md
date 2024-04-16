@@ -3,7 +3,7 @@ This repository has been created for lerarning purpose.contains my personal web 
 Visit my website: https://Codster7SH.github.io/
 
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">A passionate seasoned Data Scientist and Research Scholar from India with interest in Deep Learning, Machine Learning and Ai.</h3>
+<h3 align="center">A passionate Data Scientist and Research Scholar from India with interest in Deep Learning, Machine Learning and Ai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codster7sh&label=Profile%20views&color=0e75b6&style=flat" alt="codster7sh" /> </p>
 
@@ -11,9 +11,9 @@ Visit my website: https://Codster7SH.github.io/
 
 - 🔭 I’m currently working on **Data Mining , Machine Learning , Evolutionary Algo. and Fuzzy Systems**
 
-- 🌱 I’m currently learning **NLP , Text Crawling and Evolutionary Algorithm**
+- 🌱 I’m currently learning **NLP , Text Crawling and similar deep learning modules**
 
-- 👯 I’m looking to collaborate on **Projects on Data Analysis and Data Mining**
+- 👯 I’m looking to collaborate on **Projects on Data Analysis, ML and DL and Genrative Ai**
 
 - 🤝 I’m looking for help with **Java Web Crawling kind of code**
 
