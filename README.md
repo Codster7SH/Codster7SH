@@ -1,6 +1,6 @@
-# Codster7SH.github.io
-This repository has been created for lerarning purpose.contains my personal web portfolio.
-Visit my website: https://Codster7SH.github.io/
+#level usi ke niklenge jo last tak khada hoga😁😁
+
+Visit my portfolio website: https://Codster7SH.github.io/
 
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A passionate Data Scientist and Research Scholar from India with interest in Deep Learning, Machine Learning and Ai.</h3>
