@@ -7,7 +7,7 @@ Visit my portfolio website: https://Codster7SH.github.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codster7sh&label=Profile%20views&color=0e75b6&style=flat" alt="codster7sh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@pandeyjispeaks_" target="blank"><img src="https://img.shields.io/twitter/follow/@pandeyjispeaks_?logo=twitter&style=for-the-badge" alt="@pandeyjispeaks_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pandeyjispeaks_" target="blank"><img src="https://img.shields.io/twitter/follow/@pandeyjispeaks_?logo=twitter&style=for-the-badge" alt="@pandeyjispeak_" /></a> </p>
 
 - 🔭 I’m currently working on **Data Mining , Machine Learning , Evolutionary Algo. and Fuzzy Systems**
 
