@@ -17,7 +17,7 @@ Visit my portfolio website: https://Codster7sh.github.io/
 
 - 🤝 I’m looking for help with **Java Web Crawling kind of code**
 
-- 👨‍💻 All of my projects are available at [Codster7SH.github.io](https://github.com/Codster7SH)
+- 👨‍💻 All of my projects are available at [(https://github.com/Codster7SH)](https://github.com/Codster7SH?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@shivampandey7](https://medium.com/@shivampandey7)
 
