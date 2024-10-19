@@ -1,6 +1,6 @@
 #level usi ke niklenge jo last tak khada hoga😁😁
 
-Visit my portfolio website: https://Codster7SH.github.io/
+Visit my portfolio website: https://Codster7sh.github.io/
 
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A passionate Data Scientist and Research Scholar from India with interest in Deep Learning, Machine Learning and Ai.</h3>
@@ -17,7 +17,7 @@ Visit my portfolio website: https://Codster7SH.github.io/
 
 - 🤝 I’m looking for help with **Java Web Crawling kind of code**
 
-- 👨‍💻 All of my projects are available at [Codster7SH.github.io](Codster7SH.github.io)
+- 👨‍💻 All of my projects are available at [Codster7SH.github.io](https://github.com/Codster7SH)
 
 - 📝 I regularly write articles on [https://medium.com/@shivampandey7](https://medium.com/@shivampandey7)
 
@@ -25,7 +25,7 @@ Visit my portfolio website: https://Codster7SH.github.io/
 
 - 📫 How to reach me **Pandeyanshu611@gmail.com**
 
-- 📄 Know about my experiences [Codster7SH.github.io](Codster7SH.github.io)
+- 📄 Know about my experiences [Codster7SH.github.io](Codster7sh.github.io)
 
 - ⚡ Fun fact **I think i will finish everything quickly and will enjoy**
 
