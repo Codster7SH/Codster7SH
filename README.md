@@ -1,7 +1,5 @@
-#level usi ke niklenge jo last tak khada hoga😁😁
-
+[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
 Visit my portfolio website: https://Codster7sh.github.io/
-
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A passionate Data Scientist and Research Scholar from India with interest in Deep Learning, Machine Learning and Ai.</h3>
 
@@ -15,7 +13,7 @@ Visit my portfolio website: https://Codster7sh.github.io/
 
 - 👯 I’m looking to collaborate on **Projects on Data Analysis, ML and DL and Genrative Ai**
 
-- 🤝 I’m looking for help with **Java Web Crawling kind of code**
+- 🤝 I’m looking for help with **Help me with fixing my sleep schedule😂😂🦉**
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Codster7SH)](https://github.com/Codster7SH?tab=repositories)
 
