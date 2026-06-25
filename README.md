@@ -25,7 +25,7 @@ Visit my portfolio website: https://Codster7sh.github.io/
 
 - 📄 Know about my experiences [Codster7SH.github.io](Codster7sh.github.io)
 
-- ⚡ Fun fact **I think i will finish everything quickly and will enjoy**
+- ⚡ Fun fact **I think i will finish everything quickly and will enjoy and sleep in peace.  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
