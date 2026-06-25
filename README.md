@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rishavchanda.io)
 Visit my portfolio website: https://Codster7sh.github.io/
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">A passionate Data Scientist and Research Scholar from India with interest in Deep Learning, Machine Learning and Ai.</h3>
+<h3 align="center">A passionate Data Scientist and Research Scholar with interest in Deep Learning, Machine Learning, Fuzzy systems and Ai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codster7sh&label=Profile%20views&color=0e75b6&style=flat" alt="codster7sh" /> </p>
 
